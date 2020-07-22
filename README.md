@@ -13,7 +13,7 @@ um aplicativo para execução na AWS Lambda Function.
 # Compilar o projeto
 - Instale os requisitos
 ```
-git clone https://github.com/my-sofie/template_aws_lambda_function_python.git template
+git clone https://github.com/ArrayOf/template_aws_lambda_function_python.git template
 cd template
 python -m venv .env
 source .env/bin/activate
@@ -28,11 +28,11 @@ pip install cookiecutter
 ```
 - Gerar código inicial do projeto
 ```
-cookiecutter https://github.com/ArrayOf/template_aws_lambda_function_python/edit/master/README.md
+cookiecutter https://github.com/ArrayOf/template_aws_lambda_function_python.git
 ```
 ou
 ```
-python -m cookiecutter https://github.com/ArrayOf/template_aws_lambda_function_python/edit/master/README.md
+python -m cookiecutter https://github.com/ArrayOf/template_aws_lambda_function_python.git
 ```
 
 # Contribuindo
