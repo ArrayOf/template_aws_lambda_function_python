@@ -28,11 +28,11 @@ pip install cookiecutter
 ```
 - Gerar código inicial do projeto
 ```
-cookiecutter https://github.com/my-sofie/template_aws_lambda_function_python.git
+cookiecutter https://github.com/ArrayOf/template_aws_lambda_function_python/edit/master/README.md
 ```
 ou
 ```
-python -m cookiecutter https://github.com/my-sofie/template_aws_lambda_function_python.git
+python -m cookiecutter https://github.com/ArrayOf/template_aws_lambda_function_python/edit/master/README.md
 ```
 
 # Contribuindo
